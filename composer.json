@@ -1,0 +1,26 @@
+{
+    "name": "nikosdion/joomla_core_extensions",
+    "description": "An automatically generated list of all core Joomla! extensions",
+    "type": "project",
+    "license": "AGPL-3.0-or-later",
+    "autoload": {
+        "psr-4": {
+            "Dionysopoulos\\JoomlaCoreExtensions\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Nicholas K. Dionysopoulos",
+            "email": "nicholas@akeeba.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+		"php": "^8.3",
+        "joomla/http": "^4.0",
+        "z4kn4fein/php-semver": "^3.0",
+        "vlucas/phpdotenv": "^5.6",
+        "greenlion/php-sql-parser": "^4.7",
+        "kodus/sql-split": "^2.1"
+    }
+}

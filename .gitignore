@@ -1,0 +1,8 @@
+## Dot Env
+/.env
+
+## Composer
+/vendor/**
+
+## Temporary files
+/tmp/**

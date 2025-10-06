@@ -1,0 +1,8 @@
+<component name="CopyrightManager">
+  <copyright>
+    <option name="allowReplaceRegexp" value="Copyright.*20[0-9]{2,2}.*(Nicholas|Akeeba)" />
+    <option name="keyword" value="Copyright.*20[0-9]{2,2}.*(Nicholas|Akeeba)" />
+    <option name="notice" value="@package   nikosdion/joomla_core_extensions&#10;@license   AGPL-3.0-or-later&#10;@copyright Copyright (c) &amp;#36;originalComment.match(&quot;Copyright \(c\) (\d+)&quot;, 1, &quot;-&quot;, &quot;&amp;#36;today.year&quot;)&amp;#36;today.year Nicholas K. Dionysopoulos" />
+    <option name="myName" value="Nicholas" />
+  </copyright>
+</component>
