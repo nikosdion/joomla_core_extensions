@@ -13,7 +13,7 @@
         "folder": "",
         "client_id": "0",
         "min": "1.7",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "component",
@@ -21,7 +21,7 @@
         "folder": "",
         "client_id": "1",
         "min": "1.7",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "component",
@@ -29,7 +29,7 @@
         "folder": "",
         "client_id": "1",
         "min": "1.7",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "component",
@@ -37,7 +37,7 @@
         "folder": "",
         "client_id": "1",
         "min": "1.7",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "component",
@@ -45,7 +45,7 @@
         "folder": "",
         "client_id": "1",
         "min": "1.7",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "component",
@@ -53,7 +53,7 @@
         "folder": "",
         "client_id": "1",
         "min": "1.7",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "component",
@@ -61,7 +61,7 @@
         "folder": "",
         "client_id": "1",
         "min": "1.7",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "component",
@@ -69,7 +69,7 @@
         "folder": "",
         "client_id": "1",
         "min": "1.7",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "component",
@@ -77,7 +77,7 @@
         "folder": "",
         "client_id": "1",
         "min": "1.7",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "component",
@@ -85,7 +85,7 @@
         "folder": "",
         "client_id": "1",
         "min": "1.7",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "component",
@@ -93,7 +93,7 @@
         "folder": "",
         "client_id": "1",
         "min": "1.7",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "component",
@@ -101,7 +101,7 @@
         "folder": "",
         "client_id": "1",
         "min": "1.7",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "component",
@@ -109,7 +109,7 @@
         "folder": "",
         "client_id": "1",
         "min": "1.7",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "component",
@@ -117,7 +117,7 @@
         "folder": "",
         "client_id": "1",
         "min": "1.7",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "component",
@@ -125,7 +125,7 @@
         "folder": "",
         "client_id": "1",
         "min": "1.7",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "component",
@@ -133,7 +133,7 @@
         "folder": "",
         "client_id": "1",
         "min": "1.7",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "component",
@@ -141,7 +141,7 @@
         "folder": "",
         "client_id": "1",
         "min": "1.7",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "component",
@@ -157,7 +157,7 @@
         "folder": "",
         "client_id": "1",
         "min": "1.7",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "component",
@@ -173,7 +173,7 @@
         "folder": "",
         "client_id": "1",
         "min": "1.7",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "component",
@@ -181,7 +181,7 @@
         "folder": "",
         "client_id": "1",
         "min": "1.7",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "component",
@@ -189,7 +189,7 @@
         "folder": "",
         "client_id": "1",
         "min": "1.7",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "component",
@@ -197,7 +197,7 @@
         "folder": "",
         "client_id": "1",
         "min": "1.7",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "library",
@@ -229,7 +229,7 @@
         "folder": "",
         "client_id": "0",
         "min": "1.7",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "module",
@@ -237,7 +237,7 @@
         "folder": "",
         "client_id": "0",
         "min": "1.7",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "module",
@@ -245,7 +245,7 @@
         "folder": "",
         "client_id": "0",
         "min": "1.7",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "module",
@@ -253,7 +253,7 @@
         "folder": "",
         "client_id": "0",
         "min": "1.7",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "module",
@@ -261,7 +261,7 @@
         "folder": "",
         "client_id": "0",
         "min": "1.7",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "module",
@@ -269,7 +269,7 @@
         "folder": "",
         "client_id": "0",
         "min": "1.7",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "module",
@@ -277,7 +277,7 @@
         "folder": "",
         "client_id": "1",
         "min": "1.7",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "module",
@@ -285,7 +285,7 @@
         "folder": "",
         "client_id": "1",
         "min": "1.7",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "module",
@@ -293,7 +293,7 @@
         "folder": "",
         "client_id": "0",
         "min": "1.7",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "module",
@@ -301,7 +301,7 @@
         "folder": "",
         "client_id": "1",
         "min": "1.7",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "module",
@@ -309,7 +309,7 @@
         "folder": "",
         "client_id": "1",
         "min": "1.7",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "module",
@@ -317,7 +317,7 @@
         "folder": "",
         "client_id": "0",
         "min": "1.7",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "module",
@@ -325,7 +325,7 @@
         "folder": "",
         "client_id": "0",
         "min": "1.7",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "module",
@@ -333,7 +333,7 @@
         "folder": "",
         "client_id": "0",
         "min": "1.7",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "module",
@@ -349,7 +349,7 @@
         "folder": "",
         "client_id": "0",
         "min": "1.7",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "module",
@@ -357,7 +357,7 @@
         "folder": "",
         "client_id": "0",
         "min": "1.7",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "module",
@@ -365,7 +365,7 @@
         "folder": "",
         "client_id": "0",
         "min": "1.7",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "module",
@@ -381,7 +381,7 @@
         "folder": "",
         "client_id": "0",
         "min": "1.7",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "module",
@@ -389,7 +389,7 @@
         "folder": "",
         "client_id": "0",
         "min": "1.7",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "module",
@@ -397,7 +397,7 @@
         "folder": "",
         "client_id": "0",
         "min": "1.7",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "module",
@@ -405,7 +405,7 @@
         "folder": "",
         "client_id": "0",
         "min": "1.7",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "module",
@@ -413,7 +413,7 @@
         "folder": "",
         "client_id": "0",
         "min": "1.7",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "module",
@@ -421,7 +421,7 @@
         "folder": "",
         "client_id": "1",
         "min": "1.7",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "module",
@@ -429,7 +429,7 @@
         "folder": "",
         "client_id": "1",
         "min": "1.7",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "module",
@@ -437,7 +437,7 @@
         "folder": "",
         "client_id": "1",
         "min": "1.7",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "module",
@@ -445,7 +445,7 @@
         "folder": "",
         "client_id": "1",
         "min": "1.7",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "module",
@@ -461,7 +461,7 @@
         "folder": "",
         "client_id": "1",
         "min": "1.7",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "module",
@@ -469,7 +469,7 @@
         "folder": "",
         "client_id": "1",
         "min": "1.7",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "module",
@@ -477,7 +477,7 @@
         "folder": "",
         "client_id": "1",
         "min": "1.7",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "module",
@@ -485,7 +485,7 @@
         "folder": "",
         "client_id": "1",
         "min": "1.7",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "language",
@@ -501,7 +501,7 @@
         "folder": "",
         "client_id": "0",
         "min": "1.7",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "package",
@@ -517,7 +517,7 @@
         "folder": "",
         "client_id": "1",
         "min": "2.5",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "component",
@@ -525,7 +525,7 @@
         "folder": "",
         "client_id": "1",
         "min": "2.5",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "module",
@@ -533,7 +533,7 @@
         "folder": "",
         "client_id": "0",
         "min": "2.5",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "module",
@@ -541,7 +541,7 @@
         "folder": "",
         "client_id": "1",
         "min": "2.5",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "module",
@@ -549,7 +549,7 @@
         "folder": "",
         "client_id": "1",
         "min": "3.0",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "plugin",
@@ -565,7 +565,7 @@
         "folder": "authentication",
         "client_id": "0",
         "min": "3.0",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "plugin",
@@ -573,7 +573,7 @@
         "folder": "authentication",
         "client_id": "0",
         "min": "3.0",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "plugin",
@@ -581,7 +581,7 @@
         "folder": "content",
         "client_id": "0",
         "min": "3.0",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "plugin",
@@ -597,7 +597,7 @@
         "folder": "content",
         "client_id": "0",
         "min": "3.0",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "plugin",
@@ -605,7 +605,7 @@
         "folder": "content",
         "client_id": "0",
         "min": "3.0",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "plugin",
@@ -613,7 +613,7 @@
         "folder": "content",
         "client_id": "0",
         "min": "3.0",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "plugin",
@@ -621,7 +621,7 @@
         "folder": "content",
         "client_id": "0",
         "min": "3.0",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "plugin",
@@ -629,7 +629,7 @@
         "folder": "editors",
         "client_id": "0",
         "min": "3.0",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "plugin",
@@ -637,7 +637,7 @@
         "folder": "editors",
         "client_id": "0",
         "min": "3.0",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "plugin",
@@ -645,7 +645,7 @@
         "folder": "editors",
         "client_id": "0",
         "min": "3.0",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "plugin",
@@ -653,7 +653,7 @@
         "folder": "editors-xtd",
         "client_id": "0",
         "min": "3.0",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "plugin",
@@ -661,7 +661,7 @@
         "folder": "editors-xtd",
         "client_id": "0",
         "min": "3.0",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "plugin",
@@ -669,7 +669,7 @@
         "folder": "editors-xtd",
         "client_id": "0",
         "min": "3.0",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "plugin",
@@ -677,7 +677,7 @@
         "folder": "editors-xtd",
         "client_id": "0",
         "min": "3.0",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "plugin",
@@ -725,7 +725,7 @@
         "folder": "system",
         "client_id": "0",
         "min": "3.0",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "plugin",
@@ -741,7 +741,7 @@
         "folder": "system",
         "client_id": "0",
         "min": "3.0",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "plugin",
@@ -749,7 +749,7 @@
         "folder": "system",
         "client_id": "0",
         "min": "3.0",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "plugin",
@@ -757,7 +757,7 @@
         "folder": "system",
         "client_id": "0",
         "min": "3.0",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "plugin",
@@ -765,7 +765,7 @@
         "folder": "system",
         "client_id": "0",
         "min": "3.0",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "plugin",
@@ -773,7 +773,7 @@
         "folder": "system",
         "client_id": "0",
         "min": "3.0",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "plugin",
@@ -781,7 +781,7 @@
         "folder": "system",
         "client_id": "0",
         "min": "3.0",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "plugin",
@@ -789,7 +789,7 @@
         "folder": "system",
         "client_id": "0",
         "min": "3.0",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "plugin",
@@ -797,7 +797,7 @@
         "folder": "user",
         "client_id": "0",
         "min": "3.0",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "plugin",
@@ -805,7 +805,7 @@
         "folder": "user",
         "client_id": "0",
         "min": "3.0",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "plugin",
@@ -813,7 +813,7 @@
         "folder": "user",
         "client_id": "0",
         "min": "3.0",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "plugin",
@@ -821,7 +821,7 @@
         "folder": "extension",
         "client_id": "0",
         "min": "3.0",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "plugin",
@@ -829,7 +829,7 @@
         "folder": "content",
         "client_id": "0",
         "min": "3.0",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "plugin",
@@ -837,7 +837,7 @@
         "folder": "system",
         "client_id": "0",
         "min": "3.0",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "plugin",
@@ -845,7 +845,7 @@
         "folder": "quickicon",
         "client_id": "0",
         "min": "3.0",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "plugin",
@@ -853,7 +853,7 @@
         "folder": "quickicon",
         "client_id": "0",
         "min": "3.0",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "plugin",
@@ -869,7 +869,7 @@
         "folder": "system",
         "client_id": "0",
         "min": "3.0",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "plugin",
@@ -877,7 +877,7 @@
         "folder": "content",
         "client_id": "0",
         "min": "3.0",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "plugin",
@@ -885,7 +885,7 @@
         "folder": "finder",
         "client_id": "0",
         "min": "3.0",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "plugin",
@@ -893,7 +893,7 @@
         "folder": "finder",
         "client_id": "0",
         "min": "3.0",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "plugin",
@@ -901,7 +901,7 @@
         "folder": "finder",
         "client_id": "0",
         "min": "3.0",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "plugin",
@@ -909,7 +909,7 @@
         "folder": "finder",
         "client_id": "0",
         "min": "3.0",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "plugin",
@@ -957,7 +957,7 @@
         "folder": "",
         "client_id": "1",
         "min": "3.1",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "library",
@@ -973,7 +973,7 @@
         "folder": "",
         "client_id": "0",
         "min": "3.1",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "module",
@@ -981,7 +981,7 @@
         "folder": "",
         "client_id": "0",
         "min": "3.1",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "plugin",
@@ -989,7 +989,7 @@
         "folder": "finder",
         "client_id": "0",
         "min": "3.1",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "component",
@@ -997,7 +997,7 @@
         "folder": "",
         "client_id": "1",
         "min": "3.2",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "component",
@@ -1005,7 +1005,7 @@
         "folder": "",
         "client_id": "1",
         "min": "3.2",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "component",
@@ -1013,7 +1013,7 @@
         "folder": "",
         "client_id": "1",
         "min": "3.2",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "library",
@@ -1029,7 +1029,7 @@
         "folder": "",
         "client_id": "0",
         "min": "3.2",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "plugin",
@@ -1037,7 +1037,7 @@
         "folder": "content",
         "client_id": "0",
         "min": "3.2",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "plugin",
@@ -1053,7 +1053,7 @@
         "folder": "authentication",
         "client_id": "0",
         "min": "3.2",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "plugin",
@@ -1085,7 +1085,7 @@
         "folder": "editors-xtd",
         "client_id": "0",
         "min": "3.5",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "plugin",
@@ -1093,7 +1093,7 @@
         "folder": "system",
         "client_id": "0",
         "min": "3.5",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "plugin",
@@ -1101,7 +1101,7 @@
         "folder": "installer",
         "client_id": "0",
         "min": "3.6",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "plugin",
@@ -1109,7 +1109,7 @@
         "folder": "installer",
         "client_id": "0",
         "min": "3.6",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "plugin",
@@ -1117,7 +1117,7 @@
         "folder": "installer",
         "client_id": "0",
         "min": "3.6",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "package",
@@ -1125,7 +1125,7 @@
         "folder": "",
         "client_id": "0",
         "min": "3.6",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "component",
@@ -1133,7 +1133,7 @@
         "folder": "",
         "client_id": "1",
         "min": "3.7",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "component",
@@ -1141,7 +1141,7 @@
         "folder": "",
         "client_id": "1",
         "min": "3.7",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "plugin",
@@ -1149,7 +1149,7 @@
         "folder": "quickicon",
         "client_id": "0",
         "min": "3.7",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "plugin",
@@ -1157,7 +1157,7 @@
         "folder": "editors-xtd",
         "client_id": "0",
         "min": "3.7",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "plugin",
@@ -1165,7 +1165,7 @@
         "folder": "editors-xtd",
         "client_id": "0",
         "min": "3.7",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "plugin",
@@ -1173,7 +1173,7 @@
         "folder": "system",
         "client_id": "0",
         "min": "3.7",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "plugin",
@@ -1181,7 +1181,7 @@
         "folder": "fields",
         "client_id": "0",
         "min": "3.7",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "plugin",
@@ -1189,7 +1189,7 @@
         "folder": "fields",
         "client_id": "0",
         "min": "3.7",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "plugin",
@@ -1197,7 +1197,7 @@
         "folder": "fields",
         "client_id": "0",
         "min": "3.7",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "plugin",
@@ -1205,7 +1205,7 @@
         "folder": "fields",
         "client_id": "0",
         "min": "3.7",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "plugin",
@@ -1213,7 +1213,7 @@
         "folder": "fields",
         "client_id": "0",
         "min": "3.7",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "plugin",
@@ -1221,7 +1221,7 @@
         "folder": "fields",
         "client_id": "0",
         "min": "3.7",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "plugin",
@@ -1229,7 +1229,7 @@
         "folder": "fields",
         "client_id": "0",
         "min": "3.7",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "plugin",
@@ -1237,7 +1237,7 @@
         "folder": "fields",
         "client_id": "0",
         "min": "3.7",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "plugin",
@@ -1245,7 +1245,7 @@
         "folder": "fields",
         "client_id": "0",
         "min": "3.7",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "plugin",
@@ -1253,7 +1253,7 @@
         "folder": "fields",
         "client_id": "0",
         "min": "3.7",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "plugin",
@@ -1261,7 +1261,7 @@
         "folder": "fields",
         "client_id": "0",
         "min": "3.7",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "plugin",
@@ -1269,7 +1269,7 @@
         "folder": "fields",
         "client_id": "0",
         "min": "3.7",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "plugin",
@@ -1277,7 +1277,7 @@
         "folder": "fields",
         "client_id": "0",
         "min": "3.7",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "plugin",
@@ -1285,7 +1285,7 @@
         "folder": "fields",
         "client_id": "0",
         "min": "3.7",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "plugin",
@@ -1293,7 +1293,7 @@
         "folder": "fields",
         "client_id": "0",
         "min": "3.7",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "plugin",
@@ -1301,7 +1301,7 @@
         "folder": "content",
         "client_id": "0",
         "min": "3.7",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "plugin",
@@ -1309,7 +1309,7 @@
         "folder": "editors-xtd",
         "client_id": "0",
         "min": "3.7",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "module",
@@ -1317,7 +1317,7 @@
         "folder": "",
         "client_id": "1",
         "min": "3.8",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "plugin",
@@ -1325,7 +1325,7 @@
         "folder": "sampledata",
         "client_id": "0",
         "min": "3.8",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "plugin",
@@ -1341,7 +1341,7 @@
         "folder": "",
         "client_id": "1",
         "min": "3.9",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "component",
@@ -1349,7 +1349,7 @@
         "folder": "",
         "client_id": "1",
         "min": "3.9",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "module",
@@ -1357,7 +1357,7 @@
         "folder": "",
         "client_id": "1",
         "min": "3.9",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "module",
@@ -1365,7 +1365,7 @@
         "folder": "",
         "client_id": "1",
         "min": "3.9",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "plugin",
@@ -1381,7 +1381,7 @@
         "folder": "content",
         "client_id": "0",
         "min": "3.9",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "plugin",
@@ -1389,7 +1389,7 @@
         "folder": "system",
         "client_id": "0",
         "min": "3.9",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "plugin",
@@ -1397,7 +1397,7 @@
         "folder": "actionlog",
         "client_id": "0",
         "min": "3.9",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "plugin",
@@ -1405,7 +1405,7 @@
         "folder": "system",
         "client_id": "0",
         "min": "3.9",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "plugin",
@@ -1421,7 +1421,7 @@
         "folder": "privacy",
         "client_id": "0",
         "min": "3.9",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "plugin",
@@ -1429,7 +1429,7 @@
         "folder": "quickicon",
         "client_id": "0",
         "min": "3.9",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "plugin",
@@ -1437,7 +1437,7 @@
         "folder": "user",
         "client_id": "0",
         "min": "3.9",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "plugin",
@@ -1445,7 +1445,7 @@
         "folder": "privacy",
         "client_id": "0",
         "min": "3.9",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "plugin",
@@ -1453,7 +1453,7 @@
         "folder": "privacy",
         "client_id": "0",
         "min": "3.9",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "plugin",
@@ -1461,7 +1461,7 @@
         "folder": "privacy",
         "client_id": "0",
         "min": "3.9",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "plugin",
@@ -1469,7 +1469,7 @@
         "folder": "privacy",
         "client_id": "0",
         "min": "3.9",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "plugin",
@@ -1485,7 +1485,7 @@
         "folder": "privacy",
         "client_id": "0",
         "min": "3.9",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "plugin",
@@ -1501,7 +1501,7 @@
         "folder": "",
         "client_id": "1",
         "min": "4.0",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "component",
@@ -1509,7 +1509,7 @@
         "folder": "",
         "client_id": "1",
         "min": "4.0",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "module",
@@ -1517,7 +1517,7 @@
         "folder": "",
         "client_id": "1",
         "min": "4.0",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "module",
@@ -1525,7 +1525,7 @@
         "folder": "",
         "client_id": "1",
         "min": "4.0",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "module",
@@ -1533,7 +1533,7 @@
         "folder": "",
         "client_id": "1",
         "min": "4.0",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "module",
@@ -1541,7 +1541,7 @@
         "folder": "",
         "client_id": "1",
         "min": "4.0",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "module",
@@ -1549,7 +1549,7 @@
         "folder": "",
         "client_id": "1",
         "min": "4.0",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "module",
@@ -1557,7 +1557,7 @@
         "folder": "",
         "client_id": "1",
         "min": "4.0",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "plugin",
@@ -1565,7 +1565,7 @@
         "folder": "api-authentication",
         "client_id": "0",
         "min": "4.0",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "plugin",
@@ -1573,7 +1573,7 @@
         "folder": "api-authentication",
         "client_id": "0",
         "min": "4.0",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "plugin",
@@ -1581,7 +1581,7 @@
         "folder": "behaviour",
         "client_id": "0",
         "min": "4.0",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "plugin",
@@ -1589,7 +1589,7 @@
         "folder": "behaviour",
         "client_id": "0",
         "min": "4.0",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "plugin",
@@ -1597,7 +1597,7 @@
         "folder": "extension",
         "client_id": "0",
         "min": "4.0",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "plugin",
@@ -1605,7 +1605,7 @@
         "folder": "extension",
         "client_id": "0",
         "min": "4.0",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "plugin",
@@ -1613,7 +1613,7 @@
         "folder": "fields",
         "client_id": "0",
         "min": "4.0",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "plugin",
@@ -1621,7 +1621,7 @@
         "folder": "filesystem",
         "client_id": "0",
         "min": "4.0",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "plugin",
@@ -1629,7 +1629,7 @@
         "folder": "installer",
         "client_id": "0",
         "min": "4.0",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "plugin",
@@ -1637,7 +1637,7 @@
         "folder": "installer",
         "client_id": "0",
         "min": "4.0",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "plugin",
@@ -1645,7 +1645,7 @@
         "folder": "media-action",
         "client_id": "0",
         "min": "4.0",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "plugin",
@@ -1653,7 +1653,7 @@
         "folder": "media-action",
         "client_id": "0",
         "min": "4.0",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "plugin",
@@ -1661,7 +1661,7 @@
         "folder": "media-action",
         "client_id": "0",
         "min": "4.0",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "plugin",
@@ -1669,7 +1669,7 @@
         "folder": "quickicon",
         "client_id": "0",
         "min": "4.0",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "plugin",
@@ -1677,7 +1677,7 @@
         "folder": "quickicon",
         "client_id": "0",
         "min": "4.0",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "plugin",
@@ -1685,7 +1685,7 @@
         "folder": "sampledata",
         "client_id": "0",
         "min": "4.0",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "plugin",
@@ -1693,7 +1693,7 @@
         "folder": "system",
         "client_id": "0",
         "min": "4.0",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "plugin",
@@ -1701,7 +1701,7 @@
         "folder": "system",
         "client_id": "0",
         "min": "4.0",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "plugin",
@@ -1709,7 +1709,7 @@
         "folder": "system",
         "client_id": "0",
         "min": "4.0",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "plugin",
@@ -1717,7 +1717,7 @@
         "folder": "system",
         "client_id": "0",
         "min": "4.0",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "plugin",
@@ -1725,7 +1725,7 @@
         "folder": "user",
         "client_id": "0",
         "min": "4.0",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "plugin",
@@ -1733,7 +1733,7 @@
         "folder": "webservices",
         "client_id": "0",
         "min": "4.0",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "plugin",
@@ -1741,7 +1741,7 @@
         "folder": "webservices",
         "client_id": "0",
         "min": "4.0",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "plugin",
@@ -1749,7 +1749,7 @@
         "folder": "webservices",
         "client_id": "0",
         "min": "4.0",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "plugin",
@@ -1757,7 +1757,7 @@
         "folder": "webservices",
         "client_id": "0",
         "min": "4.0",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "plugin",
@@ -1765,7 +1765,7 @@
         "folder": "webservices",
         "client_id": "0",
         "min": "4.0",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "plugin",
@@ -1773,7 +1773,7 @@
         "folder": "webservices",
         "client_id": "0",
         "min": "4.0",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "plugin",
@@ -1781,7 +1781,7 @@
         "folder": "webservices",
         "client_id": "0",
         "min": "4.0",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "plugin",
@@ -1789,7 +1789,7 @@
         "folder": "webservices",
         "client_id": "0",
         "min": "4.0",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "plugin",
@@ -1797,7 +1797,7 @@
         "folder": "webservices",
         "client_id": "0",
         "min": "4.0",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "plugin",
@@ -1805,7 +1805,7 @@
         "folder": "webservices",
         "client_id": "0",
         "min": "4.0",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "plugin",
@@ -1813,7 +1813,7 @@
         "folder": "webservices",
         "client_id": "0",
         "min": "4.0",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "plugin",
@@ -1821,7 +1821,7 @@
         "folder": "webservices",
         "client_id": "0",
         "min": "4.0",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "plugin",
@@ -1829,7 +1829,7 @@
         "folder": "webservices",
         "client_id": "0",
         "min": "4.0",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "plugin",
@@ -1837,7 +1837,7 @@
         "folder": "webservices",
         "client_id": "0",
         "min": "4.0",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "plugin",
@@ -1845,7 +1845,7 @@
         "folder": "webservices",
         "client_id": "0",
         "min": "4.0",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "plugin",
@@ -1853,7 +1853,7 @@
         "folder": "webservices",
         "client_id": "0",
         "min": "4.0",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "plugin",
@@ -1861,7 +1861,7 @@
         "folder": "workflow",
         "client_id": "0",
         "min": "4.0",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "plugin",
@@ -1869,7 +1869,7 @@
         "folder": "workflow",
         "client_id": "0",
         "min": "4.0",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "plugin",
@@ -1877,7 +1877,7 @@
         "folder": "workflow",
         "client_id": "0",
         "min": "4.0",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "template",
@@ -1885,7 +1885,7 @@
         "folder": "",
         "client_id": "1",
         "min": "4.0",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "template",
@@ -1893,7 +1893,7 @@
         "folder": "",
         "client_id": "0",
         "min": "4.0",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "component",
@@ -1901,7 +1901,7 @@
         "folder": "",
         "client_id": "1",
         "min": "4.1",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "plugin",
@@ -1909,7 +1909,7 @@
         "folder": "system",
         "client_id": "0",
         "min": "4.1",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "plugin",
@@ -1917,7 +1917,7 @@
         "folder": "system",
         "client_id": "0",
         "min": "4.1",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "plugin",
@@ -1925,7 +1925,7 @@
         "folder": "system",
         "client_id": "0",
         "min": "4.1",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "plugin",
@@ -1933,7 +1933,7 @@
         "folder": "task",
         "client_id": "0",
         "min": "4.1",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "plugin",
@@ -1949,7 +1949,7 @@
         "folder": "task",
         "client_id": "0",
         "min": "4.1",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "plugin",
@@ -1957,7 +1957,7 @@
         "folder": "task",
         "client_id": "0",
         "min": "4.1",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "plugin",
@@ -1965,7 +1965,7 @@
         "folder": "webservices",
         "client_id": "0",
         "min": "4.1",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "plugin",
@@ -1973,7 +1973,7 @@
         "folder": "system",
         "client_id": "0",
         "min": "4.2",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "plugin",
@@ -1981,7 +1981,7 @@
         "folder": "multifactorauth",
         "client_id": "0",
         "min": "4.2",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "plugin",
@@ -1989,7 +1989,7 @@
         "folder": "multifactorauth",
         "client_id": "0",
         "min": "4.2",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "plugin",
@@ -1997,7 +1997,7 @@
         "folder": "multifactorauth",
         "client_id": "0",
         "min": "4.2",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "plugin",
@@ -2005,7 +2005,7 @@
         "folder": "multifactorauth",
         "client_id": "0",
         "min": "4.2",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "plugin",
@@ -2013,7 +2013,7 @@
         "folder": "multifactorauth",
         "client_id": "0",
         "min": "4.2",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "component",
@@ -2021,7 +2021,7 @@
         "folder": "",
         "client_id": "1",
         "min": "4.3",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "module",
@@ -2029,7 +2029,7 @@
         "folder": "",
         "client_id": "1",
         "min": "4.3",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "plugin",
@@ -2037,7 +2037,7 @@
         "folder": "system",
         "client_id": "0",
         "min": "4.3",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "plugin",
@@ -2053,7 +2053,7 @@
         "folder": "quickicon",
         "client_id": "0",
         "min": "4.4",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "plugin",
@@ -2061,7 +2061,7 @@
         "folder": "schemaorg",
         "client_id": "0",
         "min": "5.0",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "plugin",
@@ -2069,7 +2069,7 @@
         "folder": "schemaorg",
         "client_id": "0",
         "min": "5.0",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "plugin",
@@ -2077,7 +2077,7 @@
         "folder": "schemaorg",
         "client_id": "0",
         "min": "5.0",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "plugin",
@@ -2085,7 +2085,7 @@
         "folder": "schemaorg",
         "client_id": "0",
         "min": "5.0",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "plugin",
@@ -2093,7 +2093,7 @@
         "folder": "schemaorg",
         "client_id": "0",
         "min": "5.0",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "plugin",
@@ -2101,7 +2101,7 @@
         "folder": "schemaorg",
         "client_id": "0",
         "min": "5.0",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "plugin",
@@ -2109,7 +2109,7 @@
         "folder": "schemaorg",
         "client_id": "0",
         "min": "5.0",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "plugin",
@@ -2117,7 +2117,7 @@
         "folder": "system",
         "client_id": "0",
         "min": "5.0",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "plugin",
@@ -2125,7 +2125,7 @@
         "folder": "task",
         "client_id": "0",
         "min": "5.0",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "plugin",
@@ -2133,7 +2133,7 @@
         "folder": "task",
         "client_id": "0",
         "min": "5.0",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "plugin",
@@ -2141,7 +2141,7 @@
         "folder": "task",
         "client_id": "0",
         "min": "5.0",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "plugin",
@@ -2149,7 +2149,7 @@
         "folder": "task",
         "client_id": "0",
         "min": "5.0",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "plugin",
@@ -2157,7 +2157,7 @@
         "folder": "task",
         "client_id": "0",
         "min": "5.0",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "plugin",
@@ -2165,7 +2165,7 @@
         "folder": "task",
         "client_id": "0",
         "min": "5.0",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "plugin",
@@ -2173,7 +2173,7 @@
         "folder": "schemaorg",
         "client_id": "0",
         "min": "5.1",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "plugin",
@@ -2181,7 +2181,7 @@
         "folder": "schemaorg",
         "client_id": "0",
         "min": "5.1",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "module",
@@ -2189,7 +2189,7 @@
         "folder": "",
         "client_id": "0",
         "min": "5.2",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "plugin",
@@ -2197,7 +2197,7 @@
         "folder": "extension",
         "client_id": "0",
         "min": "5.3",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "plugin",
@@ -2205,7 +2205,7 @@
         "folder": "behaviour",
         "client_id": "0",
         "min": "5.4",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "plugin",
@@ -2213,7 +2213,7 @@
         "folder": "quickicon",
         "client_id": "0",
         "min": "5.4",
-        "max": "6.0"
+        "max": "6.2"
     },
     {
         "type": "plugin",
@@ -2221,30 +2221,38 @@
         "folder": "webservices",
         "client_id": "0",
         "min": "5.4",
-        "max": "6.0"
+        "max": "6.2"
+    },
+    {
+        "type": "plugin",
+        "element": "powcaptcha",
+        "folder": "captcha",
+        "client_id": "0",
+        "min": "6.1",
+        "max": "6.2"
     },
     {
         "type": "plugin",
         "element": "note",
         "folder": "fields",
         "client_id": "0",
-        "min": "6.0",
-        "max": "6.0"
+        "min": "6.1",
+        "max": "6.2"
     },
     {
         "type": "plugin",
         "element": "number",
         "folder": "fields",
         "client_id": "0",
-        "min": "6.0",
-        "max": "6.0"
+        "min": "6.1",
+        "max": "6.2"
     },
     {
         "type": "template",
         "element": "cassiopeia_extended",
         "folder": "",
         "client_id": "0",
-        "min": "6.0",
-        "max": "6.0"
+        "min": "6.1",
+        "max": "6.2"
     }
 ]

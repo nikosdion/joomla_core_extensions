@@ -4,7 +4,7 @@ A list of all core Joomla! extensions since Joomla! 1.7
 
 Download it as [JSON](extensions.json) - [Text](extensions.md)
 
-Last Updated: Mon, 06 Oct 2025 19:06:35 +0000 with Joomla! 6.0.0-rc1
+Last Updated: Wed, 15 Jul 2026 07:51:49 +0000 with Joomla! 6.2.0-alpha2
 
 ## What is this?
 
