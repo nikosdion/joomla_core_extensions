@@ -6,3 +6,4 @@
 
 ## Temporary files
 /tmp/**
+/.idea/laravel-idea.xml
