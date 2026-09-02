@@ -22,5 +22,10 @@
         "vlucas/phpdotenv": "^5.6",
         "greenlion/php-sql-parser": "^4.7",
         "kodus/sql-split": "^2.1"
+    },
+    "config": {
+        "platform": {
+            "php": "8.3.999"
+        }
     }
 }
