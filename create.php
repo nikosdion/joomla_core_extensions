@@ -17,6 +17,13 @@ $getter     = new Getter(
 );
 $jVersions  = new JoomlaVersions();
 $extensions = (new Extensions(($jVersions)->sqlFileURLs()))->withVersionLimits();
+$allRelevantVersions = $jVersions->relevantTags();
+$lastVersion         = array_reduce(
+	$allRelevantVersions,
+	fn ($carry, $value) => version_compare($carry, $value, 'gt') ? $carry : $value,
+	'0.0.0'
+);
+$generationDate      = gmdate('Y-m-d');
 
 file_put_contents(
 	'extensions.json',
@@ -24,6 +31,8 @@ file_put_contents(
 );
 
 $markdown = <<< MARKDOWN
+Generated on $generationDate for Joomla versions up to $lastVersion
+
 | Type | Element | Folder | Client ID | Min. Version | Max. Version |
 |------|------|------|------|------|------|
 
@@ -50,12 +59,6 @@ file_put_contents(
 	$markdown
 );
 
-$allRelevantVersions = $jVersions->relevantTags();
-$lastVersion         = array_reduce(
-	$allRelevantVersions,
-	fn ($carry, $value) => version_compare($carry, $value, 'gt') ? $carry : $value,
-	'0.0.0'
-);
 $lastUpdate          = 'Last Updated: ' . gmdate('D, d M Y H:i:s O') . ' with Joomla! ' . $lastVersion;
 
 $contents = implode(

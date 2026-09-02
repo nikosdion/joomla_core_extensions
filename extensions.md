@@ -1,3 +1,5 @@
+Generated on 2026-09-02 for Joomla versions up to 6.2.0-beta2
+
 | Type | Element | Folder | Client ID | Min. Version | Max. Version |
 |------|------|------|------|------|------|
 | Component | com_mailto |  | Site | 1.7 | 3.10 |

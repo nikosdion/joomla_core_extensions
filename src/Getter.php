@@ -1,8 +1,8 @@
 <?php
 /**
- * @package   topostgresql
- * @copyright Copyright (c) 2025 Nicholas K. Dionysopoulos / Akeeba Ltd
- * @license   https://www.gnu.org/licenses/gpl-3.0.txt GNU General Public License, version 3 or later
+ * @package   nikosdion/joomla_core_extensions
+ * @license   AGPL-3.0-or-later
+ * @copyright Copyright (c) 2025-2026 Nicholas K. Dionysopoulos
  */
 
 namespace Dionysopoulos\JoomlaCoreExtensions;
