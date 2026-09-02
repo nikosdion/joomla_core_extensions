@@ -1,7 +1,7 @@
 <component name="CopyrightManager">
   <settings>
     <module2copyright>
-      <element module="Source" copyright="Akeeba" />
+      <element module="Source" copyright="Nicholas" />
     </module2copyright>
     <LanguageOptions name="PHP">
       <option name="fileTypeOverride" value="3" />
