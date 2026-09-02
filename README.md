@@ -74,3 +74,7 @@ After checking out your working copy, run `composer install`.
 Copy `env.dist` to `.env` and put your [GitHub Personal Access Token (PAT)](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens#creating-a-fine-grained-personal-access-token) in there; without it, the rate limiting on GitHub's side would make this impractical.
 
 Run `php create.php` to retrieve the information and create the `extensions.md` and `extensions.json` files.
+
+## License
+
+This repository is licensed under the [GNU Affero General Public License version 3 or later](LICENSE.txt) (`AGPL-3.0-or-later`).
