@@ -1,14 +1,16 @@
 # Core Joomla Extensions
 
-A list of all core Joomla! extensions since Joomla! 1.7
+A list of all core Joomla! extensions and database tables since Joomla! 1.7
 
-Download it as [JSON](extensions.json) - [Text](extensions.md)
+Extensions: download as [JSON](extensions.json) - [Text](extensions.md)
 
-Last Updated: Wed, 02 Sep 2026 13:48:24 +0000 with Joomla! 6.2.0-beta2
+Database tables: download as [JSON](tables.json) - [Text](tables.md)
+
+Last Updated: Wed, 23 Sep 2026 06:01:14 +0000 with Joomla! 6.2.0-beta3
 
 ## What is this?
 
-This repository contains an automatically generated list of the core extensions shipped with the Joomla! CMS since version 1.7. Each extension is tagged with the minimum and maximum Joomla! version family (in the form `major.minor`, e.g. `1.7`, `2.5` etc) it has been shipped with.
+This repository contains an automatically generated list of the core extensions shipped with the Joomla! CMS since version 1.7, as well as a list of the core database tables created by the Joomla! installer. Each extension and table is tagged with the minimum and maximum Joomla! version family (in the form `major.minor`, e.g. `1.7`, `2.5` etc) it has been shipped with.
 
 ## The `extensions.json` format
 
@@ -42,6 +44,28 @@ The `min` and `max` values are inclusive `major.minor` version families, not ful
 
 Consumers should identify an extension using the combination of `type`, `element`, `folder`, and `client_id`, and should not rely on the order of objects in the array.
 
+## The `tables.json` format
+
+The file contains a JSON array with one object per core database table, sorted by table name.
+
+```json
+[
+    {
+        "table": "#__content",
+        "min": "1.7",
+        "max": "6.2"
+    }
+]
+```
+
+| Field | Description |
+|------|------|
+| `table` | The table name, using Joomla's `#__` placeholder for the site's table name prefix. |
+| `min` | The earliest Joomla version family whose installation SQL creates the table. |
+| `max` | The latest Joomla version family whose installation SQL creates the table. |
+
+The `min` and `max` values have the same meaning as in `extensions.json`. A `max` older than the latest Joomla version means the table is no longer created on new installations; sites updated from an older version may still have it.
+
 ## Why does it even exist?
 
 I needed a way to validate that my sites do not have obsolete core extensions installed. 
@@ -57,6 +81,8 @@ The real world is messy. I needed a **reliable** way to know which Joomla core e
 ## How does it work?
 
 It lists the Git tags of Joomla's GitHub repository to find out the (tagged) versions of each Joomla version. It only keeps the latest version in each version family. It then downloads the MySQL installation file for each of these versions. It finds the `INSERT INTO #__extensions` SQL statements and parses them to find out the extensions installed with this version of Joomla!. It then goes through this version-by-version list of extensions to create a unified list of all extensions ever installed with Joomla!, as well as the minimum and maximum Joomla version these existed. 
+
+For the database tables, it uses the GitHub API to list the SQL files in the `installation/sql/mysql` folder of each of these versions, downloads all of them, and collects the table names from their `CREATE TABLE` statements. It then merges the version-by-version lists the same way it does for extensions.
 
 ## Notable issues 
 

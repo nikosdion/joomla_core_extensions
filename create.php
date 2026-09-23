@@ -3,20 +3,23 @@
 use Dionysopoulos\JoomlaCoreExtensions\Extensions;
 use Dionysopoulos\JoomlaCoreExtensions\Getter;
 use Dionysopoulos\JoomlaCoreExtensions\JoomlaVersions;
+use Dionysopoulos\JoomlaCoreExtensions\Tables;
 use Dotenv\Dotenv;
 
 require_once 'vendor/autoload.php';
 
 Dotenv::createImmutable(__DIR__)->safeLoad();
 
-$getter     = new Getter(
-	headers: ($_SERVER['GITHUB_PAT'] ?? null) ? [
-		'X-GitHub-Api-Version' => '2022-11-28',
-		'Authorization'        => 'Bearer ' . $_SERVER['GITHUB_PAT'],
-	] : []
-);
-$jVersions  = new JoomlaVersions();
-$extensions = (new Extensions(($jVersions)->sqlFileURLs()))->withVersionLimits();
+$headers    = ($_SERVER['GITHUB_PAT'] ?? null) ? [
+	'X-GitHub-Api-Version' => '2022-11-28',
+	'Authorization'        => 'Bearer ' . $_SERVER['GITHUB_PAT'],
+] : [];
+$getter     = new Getter(headers: $headers);
+// The installation SQL files and folder listings of tagged versions never change; cache them for a long time.
+$longGetter = new Getter(headers: $headers, cacheSeconds: 31536000);
+$jVersions  = new JoomlaVersions($getter);
+$extensions = (new Extensions($jVersions->sqlFileURLs(), $longGetter))->withVersionLimits();
+$tables     = (new Tables($jVersions->sqlFolderURLs(), $longGetter))->withVersionLimits();
 $allRelevantVersions = $jVersions->relevantTags();
 $lastVersion         = array_reduce(
 	$allRelevantVersions,
@@ -56,6 +59,32 @@ MARKDOWN;
 
 file_put_contents(
 	'extensions.md',
+	$markdown
+);
+
+file_put_contents(
+	'tables.json',
+	json_encode(array_values($tables), JSON_PRETTY_PRINT)
+);
+
+$markdown = <<< MARKDOWN
+Generated on $generationDate for Joomla versions up to $lastVersion
+
+| Table | Min. Version | Max. Version |
+|------|------|------|
+
+MARKDOWN;
+
+foreach ($tables as $table)
+{
+	$markdown .= <<< MARKDOWN
+| {$table['table']} | {$table['min']} | {$table['max']} |
+
+MARKDOWN;
+}
+
+file_put_contents(
+	'tables.md',
 	$markdown
 );
 

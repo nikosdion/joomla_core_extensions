@@ -154,4 +154,35 @@ class JoomlaVersions
 
 		return json_decode($this->cache->get('sql_urls', $callback), true) ?? [];
 	}
+
+	/**
+	 * Returns the GitHub Contents API URLs listing the installation/sql/mysql folder of each version family.
+	 *
+	 * @return  array  Version family => URL
+	 */
+	public function sqlFolderURLs(): array
+	{
+		$callback = function () {
+			$ret = [];
+
+			foreach ($this->relevantTags() as $tag)
+			{
+				$version = Version::parseOrNull($tag);
+
+				if (!$version)
+				{
+					continue;
+				}
+
+				$ret[$version->getMajor() . '.' . $version->getMinor()] = sprintf(
+					'https://api.github.com/repos/joomla/joomla-cms/contents/installation/sql/mysql?ref=%s',
+					urlencode($tag)
+				);
+			}
+
+			return json_encode($ret);
+		};
+
+		return json_decode($this->cache->get('sql_folder_urls', $callback), true) ?? [];
+	}
 }

@@ -1,4 +1,4 @@
-Generated on 2026-09-02 for Joomla versions up to 6.2.0-beta2
+Generated on 2026-09-23 for Joomla versions up to 6.2.0-beta3
 
 | Type | Element | Folder | Client ID | Min. Version | Max. Version |
 |------|------|------|------|------|------|

@@ -1,0 +1,487 @@
+[
+    {
+        "table": "#__action_log_config",
+        "min": "3.9",
+        "max": "6.2"
+    },
+    {
+        "table": "#__action_logs",
+        "min": "3.9",
+        "max": "6.2"
+    },
+    {
+        "table": "#__action_logs_extensions",
+        "min": "3.9",
+        "max": "6.2"
+    },
+    {
+        "table": "#__action_logs_users",
+        "min": "3.9",
+        "max": "6.2"
+    },
+    {
+        "table": "#__assets",
+        "min": "1.7",
+        "max": "6.2"
+    },
+    {
+        "table": "#__associations",
+        "min": "1.7",
+        "max": "6.2"
+    },
+    {
+        "table": "#__banner_clients",
+        "min": "1.7",
+        "max": "6.2"
+    },
+    {
+        "table": "#__banner_tracks",
+        "min": "1.7",
+        "max": "6.2"
+    },
+    {
+        "table": "#__banners",
+        "min": "1.7",
+        "max": "6.2"
+    },
+    {
+        "table": "#__categories",
+        "min": "1.7",
+        "max": "6.2"
+    },
+    {
+        "table": "#__contact_details",
+        "min": "1.7",
+        "max": "6.2"
+    },
+    {
+        "table": "#__content",
+        "min": "1.7",
+        "max": "6.2"
+    },
+    {
+        "table": "#__content_frontpage",
+        "min": "1.7",
+        "max": "6.2"
+    },
+    {
+        "table": "#__content_rating",
+        "min": "1.7",
+        "max": "6.2"
+    },
+    {
+        "table": "#__content_types",
+        "min": "3.1",
+        "max": "6.2"
+    },
+    {
+        "table": "#__contentitem_tag_map",
+        "min": "3.1",
+        "max": "6.2"
+    },
+    {
+        "table": "#__core_log_searches",
+        "min": "1.7",
+        "max": "3.10"
+    },
+    {
+        "table": "#__extensions",
+        "min": "1.7",
+        "max": "6.2"
+    },
+    {
+        "table": "#__fields",
+        "min": "3.7",
+        "max": "6.2"
+    },
+    {
+        "table": "#__fields_categories",
+        "min": "3.7",
+        "max": "6.2"
+    },
+    {
+        "table": "#__fields_groups",
+        "min": "3.7",
+        "max": "6.2"
+    },
+    {
+        "table": "#__fields_values",
+        "min": "3.7",
+        "max": "6.2"
+    },
+    {
+        "table": "#__finder_filters",
+        "min": "2.5",
+        "max": "6.2"
+    },
+    {
+        "table": "#__finder_links",
+        "min": "2.5",
+        "max": "6.2"
+    },
+    {
+        "table": "#__finder_links_terms",
+        "min": "4.0",
+        "max": "6.2"
+    },
+    {
+        "table": "#__finder_links_terms0",
+        "min": "2.5",
+        "max": "3.10"
+    },
+    {
+        "table": "#__finder_links_terms1",
+        "min": "2.5",
+        "max": "3.10"
+    },
+    {
+        "table": "#__finder_links_terms2",
+        "min": "2.5",
+        "max": "3.10"
+    },
+    {
+        "table": "#__finder_links_terms3",
+        "min": "2.5",
+        "max": "3.10"
+    },
+    {
+        "table": "#__finder_links_terms4",
+        "min": "2.5",
+        "max": "3.10"
+    },
+    {
+        "table": "#__finder_links_terms5",
+        "min": "2.5",
+        "max": "3.10"
+    },
+    {
+        "table": "#__finder_links_terms6",
+        "min": "2.5",
+        "max": "3.10"
+    },
+    {
+        "table": "#__finder_links_terms7",
+        "min": "2.5",
+        "max": "3.10"
+    },
+    {
+        "table": "#__finder_links_terms8",
+        "min": "2.5",
+        "max": "3.10"
+    },
+    {
+        "table": "#__finder_links_terms9",
+        "min": "2.5",
+        "max": "3.10"
+    },
+    {
+        "table": "#__finder_links_termsa",
+        "min": "2.5",
+        "max": "3.10"
+    },
+    {
+        "table": "#__finder_links_termsb",
+        "min": "2.5",
+        "max": "3.10"
+    },
+    {
+        "table": "#__finder_links_termsc",
+        "min": "2.5",
+        "max": "3.10"
+    },
+    {
+        "table": "#__finder_links_termsd",
+        "min": "2.5",
+        "max": "3.10"
+    },
+    {
+        "table": "#__finder_links_termse",
+        "min": "2.5",
+        "max": "3.10"
+    },
+    {
+        "table": "#__finder_links_termsf",
+        "min": "2.5",
+        "max": "3.10"
+    },
+    {
+        "table": "#__finder_logging",
+        "min": "4.0",
+        "max": "6.2"
+    },
+    {
+        "table": "#__finder_taxonomy",
+        "min": "2.5",
+        "max": "6.2"
+    },
+    {
+        "table": "#__finder_taxonomy_map",
+        "min": "2.5",
+        "max": "6.2"
+    },
+    {
+        "table": "#__finder_terms",
+        "min": "2.5",
+        "max": "6.2"
+    },
+    {
+        "table": "#__finder_terms_common",
+        "min": "2.5",
+        "max": "6.2"
+    },
+    {
+        "table": "#__finder_tokens",
+        "min": "2.5",
+        "max": "6.2"
+    },
+    {
+        "table": "#__finder_tokens_aggregate",
+        "min": "2.5",
+        "max": "6.2"
+    },
+    {
+        "table": "#__finder_types",
+        "min": "2.5",
+        "max": "6.2"
+    },
+    {
+        "table": "#__guidedtour_steps",
+        "min": "4.3",
+        "max": "6.2"
+    },
+    {
+        "table": "#__guidedtours",
+        "min": "4.3",
+        "max": "6.2"
+    },
+    {
+        "table": "#__history",
+        "min": "4.0",
+        "max": "6.2"
+    },
+    {
+        "table": "#__languages",
+        "min": "1.7",
+        "max": "6.2"
+    },
+    {
+        "table": "#__mail_templates",
+        "min": "4.0",
+        "max": "6.2"
+    },
+    {
+        "table": "#__menu",
+        "min": "1.7",
+        "max": "6.2"
+    },
+    {
+        "table": "#__menu_types",
+        "min": "1.7",
+        "max": "6.2"
+    },
+    {
+        "table": "#__messages",
+        "min": "1.7",
+        "max": "6.2"
+    },
+    {
+        "table": "#__messages_cfg",
+        "min": "1.7",
+        "max": "6.2"
+    },
+    {
+        "table": "#__modules",
+        "min": "1.7",
+        "max": "6.2"
+    },
+    {
+        "table": "#__modules_menu",
+        "min": "1.7",
+        "max": "6.2"
+    },
+    {
+        "table": "#__newsfeeds",
+        "min": "1.7",
+        "max": "6.2"
+    },
+    {
+        "table": "#__overrider",
+        "min": "2.5",
+        "max": "6.2"
+    },
+    {
+        "table": "#__postinstall_messages",
+        "min": "3.2",
+        "max": "6.2"
+    },
+    {
+        "table": "#__privacy_consents",
+        "min": "3.9",
+        "max": "6.2"
+    },
+    {
+        "table": "#__privacy_requests",
+        "min": "3.9",
+        "max": "6.2"
+    },
+    {
+        "table": "#__redirect_links",
+        "min": "1.7",
+        "max": "6.2"
+    },
+    {
+        "table": "#__scheduler_logs",
+        "min": "5.3",
+        "max": "6.2"
+    },
+    {
+        "table": "#__scheduler_tasks",
+        "min": "4.1",
+        "max": "6.2"
+    },
+    {
+        "table": "#__schemaorg",
+        "min": "5.0",
+        "max": "6.2"
+    },
+    {
+        "table": "#__schemas",
+        "min": "1.7",
+        "max": "6.2"
+    },
+    {
+        "table": "#__session",
+        "min": "1.7",
+        "max": "6.2"
+    },
+    {
+        "table": "#__tags",
+        "min": "3.1",
+        "max": "6.2"
+    },
+    {
+        "table": "#__template_overrides",
+        "min": "4.0",
+        "max": "6.2"
+    },
+    {
+        "table": "#__template_styles",
+        "min": "1.7",
+        "max": "6.2"
+    },
+    {
+        "table": "#__tuf_metadata",
+        "min": "5.1",
+        "max": "6.2"
+    },
+    {
+        "table": "#__ucm_base",
+        "min": "3.1",
+        "max": "6.2"
+    },
+    {
+        "table": "#__ucm_content",
+        "min": "3.1",
+        "max": "6.2"
+    },
+    {
+        "table": "#__ucm_history",
+        "min": "3.2",
+        "max": "3.10"
+    },
+    {
+        "table": "#__update_categories",
+        "min": "1.7",
+        "max": "2.5"
+    },
+    {
+        "table": "#__update_sites",
+        "min": "1.7",
+        "max": "6.2"
+    },
+    {
+        "table": "#__update_sites_extensions",
+        "min": "1.7",
+        "max": "6.2"
+    },
+    {
+        "table": "#__updates",
+        "min": "1.7",
+        "max": "6.2"
+    },
+    {
+        "table": "#__user_keys",
+        "min": "3.2",
+        "max": "6.2"
+    },
+    {
+        "table": "#__user_mfa",
+        "min": "4.2",
+        "max": "6.2"
+    },
+    {
+        "table": "#__user_notes",
+        "min": "2.5",
+        "max": "6.2"
+    },
+    {
+        "table": "#__user_profiles",
+        "min": "1.7",
+        "max": "6.2"
+    },
+    {
+        "table": "#__user_usergroup_map",
+        "min": "1.7",
+        "max": "6.2"
+    },
+    {
+        "table": "#__usergroups",
+        "min": "1.7",
+        "max": "6.2"
+    },
+    {
+        "table": "#__users",
+        "min": "1.7",
+        "max": "6.2"
+    },
+    {
+        "table": "#__utf8_conversion",
+        "min": "3.5",
+        "max": "3.10"
+    },
+    {
+        "table": "#__viewlevels",
+        "min": "1.7",
+        "max": "6.2"
+    },
+    {
+        "table": "#__webauthn_credentials",
+        "min": "4.0",
+        "max": "6.2"
+    },
+    {
+        "table": "#__weblinks",
+        "min": "1.7",
+        "max": "3.3"
+    },
+    {
+        "table": "#__workflow_associations",
+        "min": "4.0",
+        "max": "6.2"
+    },
+    {
+        "table": "#__workflow_stages",
+        "min": "4.0",
+        "max": "6.2"
+    },
+    {
+        "table": "#__workflow_transitions",
+        "min": "4.0",
+        "max": "6.2"
+    },
+    {
+        "table": "#__workflows",
+        "min": "4.0",
+        "max": "6.2"
+    }
+]
